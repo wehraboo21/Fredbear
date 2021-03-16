@@ -1,4 +1,4 @@
-version="1.somethin"
+version="1.0"
 tags={
 	"Fixes"
 }
